@@ -57,6 +57,16 @@ nav li a{
     border-radius: 5px;
     height: 55px;
 }
+.btn1{
+    padding: 15px 35px ;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    background: transparent;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A ;
+    margin-left: 10px;
+}
 /* bannar style */
 .bannar{
     margin:0 20px 0 200px ;
